@@ -81,13 +81,12 @@ to run typescript (S:\react_Project\typescript)
 
 npm run dev
 
-
-
 to run my-app project  (project name S:\react_Project\my-app)
 
 npm start -->
 
 
+<!-- dev start - 
 
-
+json-server --watch db.json --port 5000 -->
 
