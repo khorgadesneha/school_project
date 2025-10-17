@@ -1,0 +1,40 @@
+.login-page {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.left-panel {
+ /* background-image: url('../public/src/styles/loginPage.png'); */
+  color: white;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* padding: 2rem; */
+}
+
+.left-panel img {
+  max-height: 120px;
+  margin-bottom: 1rem;
+}
+
+.login-form input {
+  height: 45px;
+  border-radius: 8px;
+}
+
+.login-form button {
+  /* background-color: #6c488ffa; */
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 18px;
+  height: 45px;
+}
+
+.login-form button:hover {
+  background-color: #6c488ffa;
+}
+
